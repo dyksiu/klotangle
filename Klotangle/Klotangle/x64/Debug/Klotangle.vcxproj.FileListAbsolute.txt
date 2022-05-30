@@ -1,0 +1,52 @@
+C:\Users\dyksi\OneDrive\Dokumenty\Visual Studio 2022\Projekty\Klotangle\Klotangle\x64\Debug\Klotangle.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\dyksi\OneDrive\Dokumenty\Visual Studio 2022\Projekty\Klotangle\Klotangle\x64\Debug\Klotangle.vcxproj.AssemblyReference.cache
+C:\Users\dyksi\OneDrive\Dokumenty\Visual Studio 2022\Projekty\Klotangle\Klotangle\x64\Debug\Klotangle.forma0.resources
+C:\Users\dyksi\OneDrive\Dokumenty\Visual Studio 2022\Projekty\Klotangle\Klotangle\x64\Debug\Klotangle.vcxproj.GenerateResource.cache
+C:\Users\dyksi\OneDrive\Dokumenty\Visual Studio 2022\Projekty\Klotangle\Klotangle\x64\Debug\Klotangle.forma1.resources
+C:\Users\dyksi\OneDrive\Dokumenty\Visual Studio 2022\Projekty\Klotangle\Klotangle\x64\Debug\Klotangle.poziom1.resources
+C:\Users\dyksi\OneDrive\Pulpit\projekt infa\Klotangle\Klotangle\x64\Debug\Klotangle.vcxproj.AssemblyReference.cache
+C:\Users\dyksi\OneDrive\Pulpit\projekt infa\Klotangle\Klotangle\x64\Debug\Klotangle.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\dyksi\OneDrive\Pulpit\projekt infa\Klotangle\Klotangle\x64\Debug\Klotangle.forma0.resources
+C:\Users\dyksi\OneDrive\Pulpit\projekt infa\Klotangle\Klotangle\x64\Debug\Klotangle.forma1.resources
+C:\Users\dyksi\OneDrive\Pulpit\projekt infa\Klotangle\Klotangle\x64\Debug\Klotangle.poziom1.resources
+C:\Users\dyksi\OneDrive\Pulpit\projekt infa\Klotangle\Klotangle\x64\Debug\Klotangle.vcxproj.GenerateResource.cache
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle1101\Klotangle\Klotangle\x64\Debug\Klotangle.vcxproj.AssemblyReference.cache
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle1101\Klotangle\Klotangle\x64\Debug\Klotangle.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle1101\Klotangle\Klotangle\x64\Debug\Klotangle.forma0.resources
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle1101\Klotangle\Klotangle\x64\Debug\Klotangle.forma1.resources
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle1101\Klotangle\Klotangle\x64\Debug\Klotangle.poziom1.resources
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle1101\Klotangle\Klotangle\x64\Debug\Klotangle.vcxproj.GenerateResource.cache
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle1101\Klotangle\Klotangle\x64\Debug\Klotangle.forma2.resources
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle1101\Klotangle\Klotangle\x64\Debug\Klotangle.MyForm.resources
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle11011\Klotangle1101\Klotangle\Klotangle\x64\Debug\Klotangle.vcxproj.AssemblyReference.cache
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle11011\Klotangle1101\Klotangle\Klotangle\x64\Debug\Klotangle.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle11011\Klotangle1101\Klotangle\Klotangle\x64\Debug\Klotangle.forma0.resources
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle11011\Klotangle1101\Klotangle\Klotangle\x64\Debug\Klotangle.forma1.resources
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle11011\Klotangle1101\Klotangle\Klotangle\x64\Debug\Klotangle.forma2.resources
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle11011\Klotangle1101\Klotangle\Klotangle\x64\Debug\Klotangle.MyForm.resources
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle11011\Klotangle1101\Klotangle\Klotangle\x64\Debug\Klotangle.poziom1.resources
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle11011\Klotangle1101\Klotangle\Klotangle\x64\Debug\Klotangle.vcxproj.GenerateResource.cache
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle\Klotangle\x64\Debug\Klotangle.vcxproj.AssemblyReference.cache
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle\Klotangle\x64\Debug\Klotangle.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle\Klotangle\x64\Debug\Klotangle.forma0.resources
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle\Klotangle\x64\Debug\Klotangle.forma1.resources
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle\Klotangle\x64\Debug\Klotangle.forma2.resources
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle\Klotangle\x64\Debug\Klotangle.MyForm.resources
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle\Klotangle\x64\Debug\Klotangle.poziom1.resources
+C:\Users\dyksi\OneDrive\Pulpit\Klotangle\Klotangle\x64\Debug\Klotangle.vcxproj.GenerateResource.cache
+C:\Users\dyksi\OneDrive\Pulpit\studia\Klotangle\Klotangle\x64\Debug\Klotangle.vcxproj.AssemblyReference.cache
+C:\Users\dyksi\OneDrive\Pulpit\studia\Klotangle\Klotangle\x64\Debug\Klotangle.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\dyksi\OneDrive\Pulpit\studia\Klotangle\Klotangle\x64\Debug\Klotangle.forma0.resources
+C:\Users\dyksi\OneDrive\Pulpit\studia\Klotangle\Klotangle\x64\Debug\Klotangle.forma1.resources
+C:\Users\dyksi\OneDrive\Pulpit\studia\Klotangle\Klotangle\x64\Debug\Klotangle.forma2.resources
+C:\Users\dyksi\OneDrive\Pulpit\studia\Klotangle\Klotangle\x64\Debug\Klotangle.MyForm.resources
+C:\Users\dyksi\OneDrive\Pulpit\studia\Klotangle\Klotangle\x64\Debug\Klotangle.poziom1.resources
+C:\Users\dyksi\OneDrive\Pulpit\studia\Klotangle\Klotangle\x64\Debug\Klotangle.vcxproj.GenerateResource.cache
+C:\Users\dyksi\OneDrive\Pulpit\studia\semestr I\Podstawy informatyki\Klotangle\Klotangle\x64\Debug\Klotangle.vcxproj.AssemblyReference.cache
+C:\Users\dyksi\OneDrive\Pulpit\studia\semestr I\Podstawy informatyki\Klotangle\Klotangle\x64\Debug\Klotangle.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\dyksi\OneDrive\Pulpit\studia\semestr I\Podstawy informatyki\Klotangle\Klotangle\x64\Debug\Klotangle.forma0.resources
+C:\Users\dyksi\OneDrive\Pulpit\studia\semestr I\Podstawy informatyki\Klotangle\Klotangle\x64\Debug\Klotangle.forma1.resources
+C:\Users\dyksi\OneDrive\Pulpit\studia\semestr I\Podstawy informatyki\Klotangle\Klotangle\x64\Debug\Klotangle.forma2.resources
+C:\Users\dyksi\OneDrive\Pulpit\studia\semestr I\Podstawy informatyki\Klotangle\Klotangle\x64\Debug\Klotangle.MyForm.resources
+C:\Users\dyksi\OneDrive\Pulpit\studia\semestr I\Podstawy informatyki\Klotangle\Klotangle\x64\Debug\Klotangle.poziom1.resources
+C:\Users\dyksi\OneDrive\Pulpit\studia\semestr I\Podstawy informatyki\Klotangle\Klotangle\x64\Debug\Klotangle.vcxproj.GenerateResource.cache
